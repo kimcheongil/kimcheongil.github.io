@@ -25,4 +25,8 @@ I am a postdoctoral research fellow at the Center for Cognitive Science, Yonsei 
 
 My research focuses on visual consciousness, attention, and metacognition. I am particularly interested in how the brain constructs metacognitive models of its own perceptual abilities and attentional states, and what these models reveal about the mechanisms of consciousness.
 
-For more details, please see my publications, CV, or contact me by email.
+For more details, please visit my
+[Google Scholar](https://scholar.google.co.kr/citations?user=z8dpaicAAAAJ&hl=en&oi=ao),
+[Publications](/publications/),
+[CV](/cv/),
+or contact me by [email](mailto:kimcheongil@gmail.com).
