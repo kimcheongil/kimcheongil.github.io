@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/CV_Cheongil Kim.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
+cv_pdf: /assets/pdf/Cheongil_Kim_CV.pdf
+cv_format: jsonresume
 description:
 toc:
   sidebar: left
