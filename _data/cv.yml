@@ -2,30 +2,32 @@ cv:
   name: Cheongil Kim
   location: Seoul, Korea
   email: kimcheongil@gmail.com
-  website: https://kimcheongil.github.io
 
   sections:
-    Academic Positions:
+    academic positions:
       - institution: Center for Cognitive Science, Yonsei University
-        area: Postdoctoral Research Fellow
+        position: Postdoctoral Research Fellow
+        location: Seoul, Korea
         start_date: 2025-09
         end_date: present
         highlights:
           - "Advisor: Sang Chul Chong"
 
-    Education:
+    education:
       - institution: Yonsei University
         area: Cognitive Science
         degree: Ph.D.
+        location: Seoul, Korea
         start_date: 2022-03
         end_date: 2025-08
         highlights:
           - "Advisor: Sang Chul Chong"
-          - "Dissertation: Resolution of visual consciousness"
+          - "Thesis: Resolution of visual consciousness"
 
       - institution: Yonsei University
         area: Cognitive Science
         degree: M.S.
+        location: Seoul, Korea
         start_date: 2017-09
         end_date: 2020-02
         highlights:
@@ -35,6 +37,7 @@ cv:
       - institution: Yonsei University
         area: Psychology and Systems Biology
         degree: B.A. / B.S.
+        location: Seoul, Korea
         start_date: 2010-03
         end_date: 2017-08
         highlights:
