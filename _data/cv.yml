@@ -1,43 +1,41 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Name
-      value: Cheongil Kim
-    - name: Position
-      value: Postdoctoral Research Fellow
-    - name: Affiliation
-      value: Center for Cognitive Science, Yonsei University
-    - name: Email
-      value: kimcheongil@gmail.com
+cv:
+  name: Cheongil Kim
+  location: Seoul, Korea
+  email: kimcheongil@gmail.com
+  website: https://kimcheongil.github.io
 
-- title: Academic Positions
-  type: time_table
-  contents:
-    - title: Postdoctoral Research Fellow
-      institution: Center for Cognitive Science, Yonsei University
-      year: 2025–Present
-      description:
-        - Advisor: Sang Chul Chong
+  sections:
+    Academic Positions:
+      - institution: Center for Cognitive Science, Yonsei University
+        area: Postdoctoral Research Fellow
+        start_date: 2025-09
+        end_date: present
+        highlights:
+          - "Advisor: Sang Chul Chong"
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Cognitive Science
-      institution: Yonsei University
-      year: 2022–2025
-      description:
-        - Advisor: Sang Chul Chong
-        - Dissertation: Resolution of visual consciousness
+    Education:
+      - institution: Yonsei University
+        area: Cognitive Science
+        degree: Ph.D.
+        start_date: 2022-03
+        end_date: 2025-08
+        highlights:
+          - "Advisor: Sang Chul Chong"
+          - "Dissertation: Resolution of visual consciousness"
 
-    - title: M.S. in Cognitive Science
-      institution: Yonsei University
-      year: 2017–2020
-      description:
-        - Advisor: Sang Chul Chong
-        - Thesis: Partial awareness can be induced by independent cognitive access to different spatial frequencies
+      - institution: Yonsei University
+        area: Cognitive Science
+        degree: M.S.
+        start_date: 2017-09
+        end_date: 2020-02
+        highlights:
+          - "Advisor: Sang Chul Chong"
+          - "Thesis: Partial awareness can be induced by independent cognitive access to different spatial frequencies"
 
-    - title: B.A. in Psychology, B.S. in Systems Biology
-      institution: Yonsei University
-      year: 2010–2017
-      description:
-        - High Honors
+      - institution: Yonsei University
+        area: Psychology and Systems Biology
+        degree: B.A. / B.S.
+        start_date: 2010-03
+        end_date: 2017-08
+        highlights:
+          - "High Honors"
