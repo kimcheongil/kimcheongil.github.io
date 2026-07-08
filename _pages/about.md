@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Fellow, Center for Cognitive Science, Yonsei Uni
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_ck.png
   image_circular: false
 
 selected_papers: false
