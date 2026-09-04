@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-04'
 papers:
   z8dpaicAAAAJ:8k81kl-MbHgC:
     citations: 0
@@ -33,6 +33,10 @@ papers:
     citations: 2
     title: 'Product, not process: Metacognitive monitoring of visual performance during sustained attention'
     year: '2025'
+  z8dpaicAAAAJ:kNdYIx-mwKoC:
+    citations: 0
+    title: Display device, method of driving the display device, and electronic device including the display device
+    year: '2026'
   z8dpaicAAAAJ:qjMakFHDy7sC:
     citations: 11
     title: 'Effects of attention on visual discrimination and awareness: Evidence from eye-specific attention.'
